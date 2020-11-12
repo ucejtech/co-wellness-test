@@ -26,4 +26,4 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ## URL
 
-The project is hosted at [https://ucejtech.github.io/co-welllness-test/](https://ucejtech.github.io/co-welllness-test/)
+The project is hosted at [https://ucejtech.github.io/co-wellness-test/](https://ucejtech.github.io/co-wellness-test/)
