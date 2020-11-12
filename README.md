@@ -23,3 +23,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## URL
+
+The project is hosted at [https://ucejtech.github.io/co-welllness-test/](https://ucejtech.github.io/co-welllness-test/)
