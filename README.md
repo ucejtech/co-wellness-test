@@ -1,5 +1,7 @@
 # cowellness
 
+![Deploy to github pages](https://github.com/ucejtech/co-wellness-test/workflows/Deploy%20to%20github%20pages/badge.svg)
+
 ## Build Setup
 
 ```bash
