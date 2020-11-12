@@ -7,7 +7,7 @@
       <div v-for="(address, i) in addresses" :key="i" class="form-group flex">
         <select-field :options="addressType" :selected="addressType[0]" @data="val => address.type = val" />
         <google-places :id="`${i}`" class="ml-2" @data="val => address.description = val" />
-        <span v-if="i === addresses.length - 1" class="mt-6 mr-1" @click="addAddress()">
+        <span v-if="i === addresses.length - 1" class="mt-6 mr-1 add" @click="addAddress()">
           <i class="mdi mdi-plus" />
         </span>
         <span v-if="i !== 0" class="mt-6 mr-1" @click="removeAddress(i)">
@@ -48,6 +48,9 @@ export default {
 <style>
 body {
   background: #ccc;
+}
+.add {
+  cursor: pointer;
 }
 .container {
   margin: 0 auto;

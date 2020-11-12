@@ -1,9 +1,9 @@
-# cowellness
+# Co-Wellness Test
 
 ![Deploy to github pages](https://github.com/ucejtech/co-wellness-test/workflows/Deploy%20to%20github%20pages/badge.svg)
 
 Challenge link:
-https://www.notion.so/Frontend-Challenge-bad5b36ad7f5457ab282149e7463162c
+https://1drv.ms/b/s!Ahq7g2CvD3TUgrtu-cAnGgkk8NOAMA?e=ZnhNDK
 
 ## Build Setup
 
